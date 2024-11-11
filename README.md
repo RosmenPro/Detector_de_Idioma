@@ -33,6 +33,14 @@ pip install langdetect
 ## Contribuir
 Si tienes alguna sugerencia o mejora, siéntete libre de crear un pull request o abrir una issue en el repositorio.
 
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Autor
+
+- **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
+
+
 # Language Detector
 
 This project is a graphical application that detects the language of the text entered by the user. It uses the `langdetect` module to identify the language, displaying the detected language code in the graphical interface. For example, if text is entered in English, the application will show 'en' as the detected language.
@@ -67,4 +75,12 @@ pip install langdetect
 
 ## Contribute
 If you have any suggestions or improvements, feel free to create a pull request or open an issue in the repository.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Author
+
+- **Rosmén Valencia** - [GitHubProfile](https://github.com/RosmenPro)
 
